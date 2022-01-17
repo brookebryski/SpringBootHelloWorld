@@ -1,5 +1,8 @@
-package com.example.controller;
+package com.example.SpringBootHelloWorld.controller;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Greeting {
 
     private long id;
